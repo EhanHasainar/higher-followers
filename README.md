@@ -17,4 +17,4 @@ A fun and interactive Python game where you guess which celebrity has more Insta
 3. Navigate to the folder where `higher_followers.py` is located.
 4. Run the script with:
 ```bash
-python higher-followers.py
+higher-followers.py
